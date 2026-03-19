@@ -1,0 +1,4 @@
+gráfico de linha 
+gráfico de barra no lugar da tree
+gráfico de rosca 
+mapas 
